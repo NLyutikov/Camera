@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Camera_RU</string>
+    <string name="hintName">Введите имя, пожалуйста</string>
+    <string name="butText">Сделать снимок</string>
+</resources>

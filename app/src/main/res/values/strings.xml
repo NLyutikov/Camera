@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera_ENG</string>
+    <string name="hintName">Please, enter your name</string>
+    <string name="butText">To make a photo</string>
+</resources>
